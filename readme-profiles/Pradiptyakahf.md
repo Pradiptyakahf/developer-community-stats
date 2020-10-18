@@ -5,6 +5,7 @@
 <h3 align="center">👨🏻‍💻I enjoy learning new things</h3>
 <h3 align="center">🎊Happy Hacktoberfest 2020 everyone!!!</h3>
 <h3 align="center">https://github.com/Pradiptyakahf/developer-community-stats.git</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=Pradiptyakahf&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/Pradiptyakahf/github-profile-trophy)">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pradiptyakahf&show_icons=true&count_private=true&theme=dark" alt="Pradiptyakahf" /></p> 
 <br/>	<br/>
 
